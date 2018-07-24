@@ -1,8 +1,7 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
 """
- - three MLP for classifying the MNSIT dataset
-
+ - three layer MLP for classifying the MNSIT dataset
 
 @author: nasir
 """
